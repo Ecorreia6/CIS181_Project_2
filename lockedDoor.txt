@@ -1,0 +1,10 @@
+This is kinda a test story, so to get to the key, go left. To get to the lock, go right. (Ye = left, N = right).
+false
+You found the key! (Key obtained, play again to get secret ending!)
+true
+You found the hidden door, you can only enter after getting the key! (key = enter with key, N = give up)
+false
+Yay, you did it, it worked!
+true
+Welp, get the key then come back in the same runthrough of the code.
+true

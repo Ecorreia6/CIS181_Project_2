@@ -1,0 +1,34 @@
+Welcome to my definitely prepared for story! There are many things for us to do, so we better get started... in a couple of minutes! |-| (Is there actually anything prepared for this or are you just going to make it up on the go? == y)/(Ok then, all ready! let's get started! == n)
+false
+What? Of course I already have stuff prepared, How rude! Maybe I should just disqualify you already! |-| (Yeah, I dare you! == y)/(Alright, sorry. Please continue == n)
+false
+Alright, I won't miss out on this opportunity! Don't come back here ever again! - End
+true
+W-well... alright, let's get started then... uhhh... how many continents are there? |-| (Seriously, do you actually not have anything prepared? == y)/(Seven! == n)
+false
+In my defense, this gameshow wasn't supposed to be going on for a whole nother week! So give me some time please! |-| (Naw, I'm outta here == y)/(Fine, take your time then. == n)
+false
+Well good riddance i suppose! - End
+true
+Thank you! *five minutes later* Alright I am ready now, how many letters are in the word supercallifragilisticexpialidocious? |-| (How is anyone supposed to even know something like that?!? == y)/(35 letters! == n)
+false
+You're right, I guess maybe that we shouldn't have a gameshow without being prepared. I mean, we don't even have the money ri-... I was NOT supposed to say that. Well thank you for being on our gameshow kind guest, it was great having you here. And see you all next time! - End 
+true
+Wow, that was almost instant! I-is that actually right... it is! There is no way you could possibly be getting these correct without cheating. Therefore, I have valid reason to disqualiy you! Goodbye! - End
+true
+Well done, you aren't half bad at this. Is this the first gameshow you have been on? |-| (Yeah, I'm really excited! == y)/(No, I'm basically a pro at this!)
+false
+Alright, here is your next big question! What number am I thinking of? |-| (Are you kidding me? How is anyone supposed to guess that? == y)/(....36? == n) 
+false
+Well if you are unable to get it right, I am going to have to ask you to leave. But thanks for playing! - End
+true
+No way... did you really just guess that? There is no way you could have done that! But even though you did, I will still have to send you home with nothing. Why? 'Cause we don't actually have any money. Fine, you really want something that bad? You can take home the microphone... I guess. Congrats! - End
+true
+Well, we can't have any pros at this ruining our games, so get out of here! - End
+true
+Great! I only have one question prepare for you today. Choice A is correct, so do you pick: A) B, B) A, or C) Both of the above? |-| (Uhhh... A? == y)/(Uhhh... B? == n)
+false
+So sorry, it was in fact B, but better luck next time! - End
+true
+So sorry, it was in fact A, but better luck next time! - End
+true

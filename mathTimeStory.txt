@@ -1,0 +1,22 @@
+Math time! Are you ready? (y = yes, n = no)
+false
+Alrighty, what is the correct answer to 3x+7=34? (y = 9, n = 8)
+false
+Very well done, now a bit harder… What is the derivative of 6x^2+17x+152? (y = 2x^3+(17/2)x^2+152x+C, n = 12x+17)
+false
+Sorry that is incorrect, see you next time!
+true
+Correct! It seems we need to keep it up, what is the meaning of life? (y = to go to Clint’s class, n = IDK, what kind of math question even is this?)
+false
+Very true, smart answer. Now finally a popular problem, what is the answer to this: 6/2(1+2)? (y = 1, n = 9)
+false
+You got so far, but forgot to use PEMDAS… better luck next time!
+true
+Wahoo! You did it, Well done! The end.
+true
+While “idk” is a valid answer normally, it is rude to be mean towards the questioner… have fun starting from the beginning again!
+true
+Not quite, try again!
+true
+Uhhh… well… try again when you are ready then.
+true

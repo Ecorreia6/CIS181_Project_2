@@ -1,0 +1,30 @@
+It is morning, you wake up to your alarm. But you still feel tired, and want to continue sleeping. Do you: sleep in (y) or get up (n)?
+false
+You decide snoozing by a couple of minutes can't be too bad. But before you know it, your alarm goes off once again. Do you: continue your alarm (y) or get up (n)?
+false
+Mmm, yummy sleep, but yet again, you are rudely awoken by your alarm ruining your peaceful sleep. I think you already know the answer, but do you: get a little more sleep (y) or pull yourself awake (n)?
+false
+There isn't really a choice anymore. You will continue to sleep at this point: sleep (y) little more sleep (y)?
+false
+You finally feel decently rested (at least well enough to get up for the day). You look at the time and realize you already slept through all but your last class. Do you: savage what little hope for the day you have left (y) or go back to sleepy world (n)?
+false
+You think "This seems like a perfectly reasonable time to get up for classes!" while definitely not lying to yourself, and prepare to face the world. The end!
+true
+You know this is truly what your heart desires, and give in to the temptation. Never too much sleep. The end!
+true
+Yep, sleep is the only thing that will be happening at this point. Nice try though. The end!
+true
+Really? Are you sure? Get up now? yes (y) or no (n)
+false
+You decide to get up for some reason, and instantly regret making that decision. But you are at the point where you can't get back in bed now, so you go onwards. As your legs auto-pilot you to your class. The end!
+true
+Yeah, you change your ming almost instantly, unsure of what came over you in that short time. You let yourself get just a little more sleep, one more time. Or maybe two. The end!
+true
+Welp, you decide to get up... but is this really what you want to do? yes (y) or no (n)
+false
+Well, I suppose if you move quickly, you can still make it to class on time. But enjoy being tired! The end!
+true
+Sleep is really the only thing that matters now, so we shall sleep the day away! The end!
+true
+Even though this is a terrible idea, you get up and prepare for the day. But you will not enjoy. one. bit. of. it. The end.
+true
